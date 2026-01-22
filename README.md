@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Senior Flutter Developer with 5+ years of experience building high-performance mobile applications. Currently, I am expanding my horizons into Artificial Intelligence, specifically focusing on On-Device ML and LLM optimization for mobile environments.<br><br>📱 Mobile Expert: Specializing in Flutter & Dart ecosystem.<br><br>🤖 AI Enthusiast: Researching edge AI agents and personal finance analysis via LLMs.<br><br>🐹 Learning: Deep diving into Go (Golang) for scalable backends and concurrency.<br><br>✍️ Writing: I share insights on Flutter & AI at my channel, "The Intelligent Widget".
+I'm a Senior Flutter Developer with 4+ years of experience building high-performance mobile applications. Currently, I am expanding my horizons into Artificial Intelligence, specifically focusing on On-Device ML and LLM optimization for mobile environments.<br><br>📱 Mobile Expert: Specializing in Flutter & Dart ecosystem.<br><br>🤖 AI Enthusiast: Researching edge AI agents and personal finance analysis via LLMs.<br><br>🐹 Learning: Deep diving into Go (Golang) for scalable backends and concurrency.<br><br>✍️ Writing: I share insights on Flutter & AI at my channel, "The Intelligent Widget".
 
 
 ## 🌐 Socials:
