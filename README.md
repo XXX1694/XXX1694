@@ -68,13 +68,6 @@
 
 - Added **Dart language support** to [graphify](https://github.com/safishamsi/graphify) — merged into v4
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XXX1694&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXX1694&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 <p align="center">
