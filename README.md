@@ -18,9 +18,8 @@
 
 - 📱 Mobile Application Developer at **BCC-HUB** (Bank CenterCredit), working on a banking SuperApp
 - 🧠 Researching **on-device LLMs** — running language models directly on phones, no server required
-- 🚀 4+ years in mobile development, **20+ digital products** delivered across fintech, EdTech, fitness and e-commerce
+- 🚀 5+ years in mobile development, **20+ digital products** delivered across fintech, EdTech, fitness and e-commerce
 - ✍️ Writing deep dives on Flutter internals and the mobile AI stack on [Medium](https://medium.com/@serikbay.a04)
-- 🎓 Information Systems student at Kazakh-British Technical University, leading the university mobile dev community
 
 ### What I do
 
